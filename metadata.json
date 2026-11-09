@@ -1,0 +1,6 @@
+{
+  "name": "Polytechnic Preparation Hub",
+  "description": "Comprehensive Polytechnic Entrance Exam (JEECUP & State Entrance) Preparation Platform with bilingual study materials, online mock tests, previous year papers, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
